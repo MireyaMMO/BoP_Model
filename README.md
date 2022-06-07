@@ -1,7 +1,7 @@
 # BoP_Model
 Bay of Plenty High-resolution Hindcast configuration files
 
-Folder configuraton contains:
+Contains:
 
 bop_nudg3.nc   - Nudging coeficients input file
 
